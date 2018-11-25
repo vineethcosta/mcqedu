@@ -1,7 +1,7 @@
 {
   "main.css": "/mcqedu/static/css/main.67206432.chunk.css",
-  "main.js": "/mcqedu/static/js/main.c3964f45.chunk.js",
-  "main.js.map": "/mcqedu/static/js/main.c3964f45.chunk.js.map",
+  "main.js": "/mcqedu/static/js/main.cdea317e.chunk.js",
+  "main.js.map": "/mcqedu/static/js/main.cdea317e.chunk.js.map",
   "static/js/1.4ae7e885.chunk.js": "/mcqedu/static/js/1.4ae7e885.chunk.js",
   "static/js/1.4ae7e885.chunk.js.map": "/mcqedu/static/js/1.4ae7e885.chunk.js.map",
   "runtime~main.js": "/mcqedu/static/js/runtime~main.62ea3772.js",
@@ -9,6 +9,6 @@
   "static/media/index.css": "/mcqedu/static/media/icon-check.4cffa739.svg",
   "static/css/main.67206432.chunk.css.map": "/mcqedu/static/css/main.67206432.chunk.css.map",
   "index.html": "/mcqedu/index.html",
-  "precache-manifest.2d626d72f8b9991be86287773dcc2748.js": "/mcqedu/precache-manifest.2d626d72f8b9991be86287773dcc2748.js",
+  "precache-manifest.6563d7c5a95ade1ce66ed60b7632da5e.js": "/mcqedu/precache-manifest.6563d7c5a95ade1ce66ed60b7632da5e.js",
   "service-worker.js": "/mcqedu/service-worker.js"
 }
