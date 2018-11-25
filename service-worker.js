@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mcqedu/precache-manifest.11b3bf460e13bae68abc40dc7f022b9f.js"
+  "/mcqedu/precache-manifest.036d1fd836865a9d7011c1ada19475bf.js"
 );
 
 workbox.clientsClaim();
